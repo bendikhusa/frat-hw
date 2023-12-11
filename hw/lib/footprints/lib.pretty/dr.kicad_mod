@@ -1,0 +1,16 @@
+(footprint "dr" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    (tstamp 3fec0ee8-8c13-4042-a12c-538fd9892b41)
+  )
+  (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    (tstamp 5ebb42d6-d801-4a50-872b-877e939b764b)
+  )
+  (fp_text user "DATA RESPONS" (at -8.2 5.45 unlocked) (layer "F.SilkS")
+      (effects (font (size 1.5 1.5) (thickness 0.15)) (justify left bottom))
+    (tstamp 5c423329-99f0-4def-9404-190a458fe495)
+  )
+)

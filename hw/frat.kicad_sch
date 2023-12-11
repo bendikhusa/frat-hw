@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c84eb854-fad7-48d9-b741-711508396f2c)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 132.08 87.63) (size 20.955 44.45) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 35145985-79c4-444b-b704-454be3e15e30)
+    (property "Sheetname" "F-RAT top" (at 132.08 86.9184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sch/top.kicad_sch" (at 132.08 132.6646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "frat"
+        (path "/c84eb854-fad7-48d9-b741-711508396f2c" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
